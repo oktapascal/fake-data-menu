@@ -1,0 +1,106 @@
+{
+  "data": [
+  {
+    "id": 1,
+    "nama_menu": "Dashboard",
+    "icon": "heroicons:home-solid",
+    "data_menu": []
+  },
+  {
+    "id": 2,
+    "nama_menu": "Master",
+    "icon": "heroicons:circle-stack-solid",
+    "data_menu": [
+      {
+        "id": 21,
+        "nama_menu": "Data Siswa"
+      },
+      {
+        "id": 22,
+        "nama_menu": "Data Kelas"
+      },
+      {
+        "id": 23,
+        "nama_menu": "Data Guru"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nama_menu": "Transaction",
+    "icon": "heroicons:clipboard-document-check-solid",
+    "data_menu": [
+      {
+        "id": 31,
+        "nama_menu": "Data Pembayaran"
+      },
+      {
+        "id": 32,
+        "nama_menu": "Data Tagihan"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nama_menu": "Report",
+    "icon": "heroicons:book-open-solid",
+    "data_menu": [
+      {
+        "id": 41,
+        "nama_menu": "Laporan Tagihan",
+        "data_menu": [
+          {
+            "id": 411,
+            "nama_menu": "Tagihan Tunggak"
+          },
+          {
+            "id": 412,
+            "nama_menu": "Tagihan Lunas"
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "nama_menu": "Laporan Pembayaran",
+        "data_menu": [
+          {
+            "id": 421,
+            "nama_menu": "Pembayaran Tunggak"
+          },
+          {
+            "id": 422,
+            "nama_menu": "Pembayaran Lunas"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nama_menu": "Settings",
+    "icon": "heroicons:cog-8-tooth-solid",
+    "data_menu": [
+      {
+        "id": 51,
+        "nama_menu": "Kelompok Menu"
+      },
+      {
+        "id": 52,
+        "nama_menu": "Menu"
+      },
+      {
+        "id": 53,
+        "nama_menu": "Karyawan"
+      },
+      {
+        "id": 54,
+        "nama_menu": "Form"
+      },
+      {
+        "id": 55,
+        "nama_menu": "Hak Akses"
+      }
+    ]
+  }
+]
+}
